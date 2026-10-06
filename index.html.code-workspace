@@ -1,8 +1,24 @@
-{
-	"folders": [
-		{
-			"path": "blog-website"
-		}
-	],
-	"settings": {}
-}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment 17</title>
+</head>
+
+<body>
+
+    <h1>UI Response Testing</h1>
+
+    <h3>Empty List Response</h3>
+    <p>No data available.</p>
+
+    <h3>Error Response</h3>
+    <p>Error: Unable to load data.</p>
+
+    <h3>Very Long Text Response</h3>
+    <p>
+        This is a very long response used to test whether the user interface
+        can display lengthy content correctly without breaking the layout.
+    </p>
+
+</body>
+</html>
